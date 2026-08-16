@@ -1,55 +1,93 @@
-**Hi, I'm Sejal Langah**
+ # 📚 Study Progress Tracker
 
-🎓 BS Information Technology Student  
-💻 Aspiring Software Engineer 
-🚀 Passionate about Programming, Technology & Problem Solving
+A simple Java console-based application designed to help students track their study progress, completed topics, study hours, and overall performance.
 
----
+## 👩‍💻 Student
 
-👩‍💻 **About Me**
+**Name:** Sejal Langah  
+**Program:** BS Information Technology  
+**Project:** Study Progress Tracker  
+**Instructor:** Maim Chandni Talpur  
 
-I am a passionate BS Information Technology student with a strong interest in software engineering, programming, and problem-solving.
+## 🎯 Project Objective
 
-I am continuously working on improving my technical skills and building a strong foundation in programming, Object-Oriented Programming, Data Structures & Algorithms, and web technologies
+The main purpose of this project is to create a simple and useful study progress tracking system using Java.
 
- 🛠️ **Skills**
+The program allows a student to enter:
 
-- C++
+- Student name
+- Subject name
+- Total study hours
+- Completed topics
+- Total topics
+
+It then calculates the student's overall study progress and displays a performance status.
+
+## ✨ Features
+
+- 📌 Enter student information
+- 📚 Enter subject name
+- ⏱️ Track study hours
+- 📝 Track completed topics
+- 📊 Calculate study progress percentage
+- 🌟 Display performance status
+- 💻 Simple console-based interface
+
+## 🛠️ Technologies Used
+
 - Java
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- HTML & CSS
-- Git & GitHub
-- Microsoft Office
+- Scanner Class
+- Variables
+- User Input
+- Conditional Statements
+- Mathematical Calculations
+- Console Output
 
+## 🧠 Concepts Demonstrated
 
+This project demonstrates basic Java programming concepts including:
 
- 🌱 **Currently Learning**
+- `Scanner`
+- Variables and Data Types
+- Type Casting
+- Arithmetic Operators
+- `if-else` Statements
+- User Input
+- Formatted Output
 
-- Java & OOP
-- Data Structures & Algorithms
-- Web Development
-- Git & GitHub
-- Software Development
+## 📊 Progress Logic
 
+The progress percentage is calculated using:
 
+**Progress = (Completed Topics / Total Topics) × 100**
 
-🎯 **My Goals**
+The program displays:
 
-- Become a skilled Software Engineer
-- Build strong programming fundamentals
-- Create practical projects
-- Improve problem-solving skills
-- Prepare for internships and the international tech industry
+- **80% or above:** Excellent
+- **50%–79%:** Good Progress
+- **Below 50%:** Keep Working
 
+## 📌 Sample Output
 
+```text
+================================
+      STUDY PROGRESS TRACKER
+================================
 
- 📫 **Connect With Me**
+Enter your name: Sejal
+Enter subject name: Java
+Enter total study hours: 5
+Enter completed topics: 8
+Enter total topics: 10
 
-- 🔗  **[github.com/sejallangah270]**
-- 💼  ** https://www.linkedin.com/in/sejal-langah-2a50a23a3?utm_source=share_via&utm_content=profile&utm_medium=member_android**
-
-
-
-⭐ **Thanks for visiting my profile!**    
+---------- STUDY REPORT ----------
+Student: Sejal
+Subject: Java
+Study Hours: 5.0
+Topics Completed: 8/10
+Progress: 80.00%
+Status: Excellent!
+----------------------------------
+Keep learning and improving! 
+⭐ Learning today, improving tomorrow.
 
