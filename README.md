@@ -1,4 +1,4 @@
- Hi, I'm Sejal Langah 👋
+* Hi, I'm Sejal Langah* 👋
 
 🎓 BS Information Technology Student  
 💻 Aspiring Software Engineer 
@@ -6,13 +6,13 @@
 
 ---
 
-👩‍💻 About Me
+👩‍💻 **About Me**
 
-I am a **passionate BS Information Technology student** with a strong interest in **software engineering, programming, and problem-solving**.
+I am a passionate BS Information Technology student with a strong interest in software engineering, programming, and problem-solving.
 
-I am continuously working on improving my technical skills and building a strong foundation in **programming, Object-Oriented Programming, Data Structures & Algorithms, and web technologies
+I am continuously working on improving my technical skills and building a strong foundation in programming, Object-Oriented Programming, Data Structures & Algorithms, and web technologies
 
- 🛠️ Skills
+ 🛠️ **Skills**
 
 - C++
 - Java
@@ -24,7 +24,7 @@ I am continuously working on improving my technical skills and building a strong
 
 
 
- 🌱 Currently Learning
+ 🌱 **Currently Learning**
 
 - Java & OOP
 - Data Structures & Algorithms
@@ -34,22 +34,22 @@ I am continuously working on improving my technical skills and building a strong
 
 
 
-🎯 My Goals
+🎯 **My Goals**
 
-- Become a **skilled Software Engineer**
-- Build strong **programming fundamentals**
-- Create **practical projects**
-- Improve **problem-solving skills**
-- Prepare for **internships and the international tech industry**
+- Become a skilled Software Engineer
+- Build strong programming fundamentals
+- Create practical projects
+- Improve problem-solving skills
+- Prepare for internships and the international tech industry
 
 
 
- 📫 Connect With Me
+ 📫 **Connect With Me**
 
-- 🔗  [github.com/sejallangah270]
-- 💼  [linkedin.com/in/ sejal-langah-2a50a23a]
+- 🔗  **[github.com/sejallangah270]**
+- 💼  **[linkedin.com/in/ sejal-langah-2a50a23a]**
 
 
 
 ⭐ **Thanks for visiting my profile!**    
-This is My first Repository 
+
