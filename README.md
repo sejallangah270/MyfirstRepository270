@@ -1,4 +1,4 @@
-*Hi, I'm Sejal Langah👋
+**Hi, I'm Sejal Langah**
 
 🎓 BS Information Technology Student  
 💻 Aspiring Software Engineer 
