@@ -1,4 +1,4 @@
-* Hi, I'm Sejal Langah* 👋
+*This is My first Repository.             * Hi, I'm Sejal Langah👋
 
 🎓 BS Information Technology Student  
 💻 Aspiring Software Engineer 
@@ -47,7 +47,7 @@ I am continuously working on improving my technical skills and building a strong
  📫 **Connect With Me**
 
 - 🔗  **[github.com/sejallangah270]**
-- 💼  **[linkedin.com/in/ sejal-langah-2a50a23a]**
+- 💼  ** https://www.linkedin.com/in/sejal-langah-2a50a23a3?utm_source=share_via&utm_content=profile&utm_medium=member_android**
 
 
 
